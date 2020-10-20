@@ -1,3 +1,7 @@
-container text-light {
+container {
     background-color: antiquewhite;
+}
+
+body {
+    background-color:lightgray
 }
