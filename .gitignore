@@ -3,3 +3,4 @@ Images/
 Resources/
 .DS_Store
 boot*
+.ipynb_checkpoints
